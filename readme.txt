@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 new branch on dev
 Git is free software 
+bug branch
